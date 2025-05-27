@@ -1,0 +1,94 @@
+{
+  "isDarkTheme": true,
+  "selectedLanguageCode": "en",
+  "languages": [
+    {
+      "rtl": false,
+      "languageCode": "en",
+      "isRTL": false,
+      "firstForm": {
+        "frameTitle": "Welcome",
+        "langButtonText": "English",
+        "themeButtonTextDark": "Dark",
+        "themeButtonTextLight": "Light",
+        "nickNameHint": "Please Enter Your Nickname:",
+        "nickNameToolTip": "Nickname",
+        "onNickNameEmpty": "Please Enter Your Nickname First",
+        "clientButtonText": "Spectator",
+        "serverButtonText": "Projectionist"
+      },
+      "secondForm": {
+        "frameTitle": "Welcome %s !",
+        "serverUrlFiledHint": "Movie Link : ",
+        "clientRoomIDFieldHint": "Room ID : ",
+        "serverUrlFiledToolTip": "Movie Link",
+        "clientRoomIDFieldToolTip": "Room ID",
+        "onURLEmpty": "Please Enter Movie Link",
+        "onRoomIDEmpty": "Please Enter Room ID",
+        "invalidURL": "Movie URL is Invalid",
+        "onRoomIDCopied": "Room ID <%s> Copied to Clipboard",
+        "onNewUserJoined": "%s Joined The Room",
+        "onRoomOwnerDisconnected": "Projectionist is Offline !",
+        "onUserDisconnected": "%s Left The Room",
+        "btnServerLoad": "Load",
+        "btnClientJoin": "Join",
+        "btnPlay": "Play",
+        "btnPause": "Pause",
+        "btnStop": "Stop",
+        "btnAudio": "Change Audio",
+        "btnSubtitle": "Toggle Subtitle",
+        "btnShowUsers": "Show Room Users",
+        "userListTexts": "Spectators in Room : %s",
+        "delayLowValue": 500
+      },
+      "mainMessageTexts": {
+        "onConnected": "Connected",
+        "onDisconnected": "Disconnected"
+      }
+    },
+    {
+      "rtl": true,
+      "languageCode": "per",
+      "isRTL": true,
+      "firstForm": {
+        "frameTitle": "خوش آمدید",
+        "langButtonText": "پارسی",
+        "themeButtonTextDark": "تاریک",
+        "themeButtonTextLight": "روشن",
+        "nickNameHint": "لطفاً نام مستعار خود را وارد کنید:",
+        "nickNameToolTip": "نام مستعار",
+        "onNickNameEmpty": "لطفاً ابتدا نام مستعار خود را وارد کنید",
+        "clientButtonText": "تماشاچی",
+        "serverButtonText": "پخش کننده"
+      },
+      "secondForm": {
+        "frameTitle": "خوش آمدید %s !",
+        "serverUrlFiledHint": "لینک فیلم: ",
+        "clientRoomIDFieldHint": "شناسه اتاق: ",
+        "serverUrlFiledToolTip": "لینک فیلم",
+        "clientRoomIDFieldToolTip": "شناسه اتاق",
+        "onURLEmpty": "لطفاً ابتدا لینک فیلم را وارد کنید",
+        "onRoomIDEmpty": "لطفاً شناسه اتاق را وارد کنید",
+        "invalidURL": "لینک فیلم معتبر نمی باشد",
+        "onRoomIDCopied": "شناسه اتاق <%s> به کلیپ بورد کپی شد",
+        "onNewUserJoined": "%s به اتاق شما پیوست",
+        "onRoomOwnerDisconnected": "ارتباط با ارسال کننده قطع شد !",
+        "onUserDisconnected": "%s اتاق را ترک کرد",
+        "btnServerLoad": "بارگذاری",
+        "btnClientJoin": "پیوستن",
+        "btnPlay": "پخش",
+        "btnPause": "توقف موقت",
+        "btnStop": "توقف",
+        "btnAudio": "تغییر صدا",
+        "btnSubtitle": "تغییر زیرنویس",
+        "btnShowUsers": "نمایش کاربران اتاق",
+        "userListTexts": "تماشاگران در اتاق : %s",
+        "delayLowValue": 500
+      },
+      "mainMessageTexts": {
+        "onConnected": "متصل شد",
+        "onDisconnected": "قطع شد"
+      }
+    }
+  ]
+}
