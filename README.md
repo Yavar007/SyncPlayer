@@ -3,7 +3,7 @@
 
 # **SyncPlayer: Synchronized Online Video Streaming for Desktop and Android**
 
-<div style="display: flex; justify-content: center; width: 100%">
+<div align="center">
   <img src="applogo.png" alt="SyncPlayer Logo" width="300">
 </div>
 
@@ -102,7 +102,7 @@ you can use
 
 ## **Screenshots**
 **Init Form**
-<div style="text-align: center;">
+<div align="center">
   <img src="/screenshots/en-light-ff.png" alt="FirstForm_Light" width="300">
   <img src="/screenshots/en-dark-ff.png" alt="FirstForm_Dark" width="300">
 </div>
@@ -111,7 +111,7 @@ you can use
 
 **Player Form**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="/screenshots/en-light-sf-pr.png" alt="SecondForm_Light" width="300">
   <img src="/screenshots/en-dark-sf-pr.png" alt="SecondForm_Dark" width="300">
   <img src="/screenshots/en-light-sf-pro.png" alt="SecondForm_Users_List_Light" width="300">
