@@ -64,7 +64,6 @@ SyncPlayer is a **Java-based Desktop and Android application** that enables real
    java -jar SyncPlayer.jar
    ```
 or you can use .bat or .sh files to run the program based on your operation system.
-you can use 
 </br>
 4. **Follow On-Screen Instructions**: Choose your preferences and start using SyncPlayer.
 
