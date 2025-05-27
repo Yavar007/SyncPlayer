@@ -3,9 +3,10 @@
 
 # **SyncPlayer: Synchronized Online Video Streaming for Desktop and Android**
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="applogo.png" alt="SyncPlayer Logo" width="300">
 </div>
+
 
 SyncPlayer is a **Java-based Desktop and Android application** that enables real-time synchronized **Online Video Streaming** for multiple users. Whether you're hosting a movie night, conducting a team review, or simply watching videos with friends, SyncPlayer ensures everyone stays in perfect sync. With support for **Players (Projectionists)** and **Spectators**, customizable themes, multi-language support, and **Secure AES Encryption**, SyncPlayer offers a seamless and immersive viewing experience.
 
