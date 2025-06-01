@@ -19,7 +19,7 @@ SyncPlayer is a **Java-based Desktop and Android application** that enables real
   - **Projectionist (Player)**: Controls video playback, inputs the **direct online streaming link**, and generates a unique room ID.
   - **Spectator**: Joins the room using the room ID and watches the video in sync.
 - **Secure Communication**: Data is encrypted using **AES/CBC/PKCS5PADDING** with a customizable secret key for enhanced security.
-- **Multi-Platform Support**: Available for **Desktop (Java)** and **Android**(Soon...).
+- **Multi-Platform Support**: Available for **Desktop (Java)** and **[Android](https://github.com/Yavar007/SyncPlayerAndroid)**.
 - **Customizable Themes**: Light and dark themes for personalized viewing.
 - **Multi-Language Support**: Supports **English** and **Persian** out of the box, with the ability for desktop users to add custom languages.
 - **User-Friendly Interface**:
@@ -49,7 +49,7 @@ SyncPlayer is a **Java-based Desktop and Android application** that enables real
 - **Programming Language**: Java
 - **Communication Protocol**: MQTTV
 - **Encryption**: **AES/CBC/PKCS5PADDING** with a customizable secret key for secure data transfer.
-- **Platforms**: Desktop (Java) and Android (Soon...)
+- **Platforms**: Desktop (Java) and [Android](https://github.com/Yavar007/SyncPlayerAndroid)
 - **UI/UX**: Customizable themes, multi-language support, and intuitive controls
 
 ---
